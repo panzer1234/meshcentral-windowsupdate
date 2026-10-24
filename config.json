@@ -6,10 +6,10 @@
   "author": "MajorLynx",
   "description": "Windows Update status en updates installeren per Windows endpoint.",
   "hasAdminPanel": false,
-  "homepage": "https://github.com/panzer1234/meshcentral-windowsupdate",
-  "changelogUrl": "https://github.com/panzer1234/meshcentral-windowsupdate/commits/main/",
+  "homepage": "https://raw.github.com/panzer1234/meshcentral-windowsupdate",
+  "changelogUrl": "https://raw.github.com/panzer1234/meshcentral-windowsupdate/commits/main/",
   "configUrl": "https://raw.githubusercontent.com/panzer1234/meshcentral-windowsupdate/main/config.json",
-  "downloadUrl": "https://github.com/panzer1234/meshcentral-windowsupdate/archive/refs/heads/main.zip",
+  "downloadUrl": "https://raw.github.com/panzer1234/meshcentral-windowsupdate/archive/refs/heads/main.zip"
   "repository": {
     "type": "git",
     "url": "https://github.com/panzer1234/meshcentral-windowsupdate.git"
